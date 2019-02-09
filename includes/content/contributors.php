@@ -1,0 +1,1 @@
+<div id="content"><img name="contributors" src="images/contributors.jpg" width="600" height="500" alt="" /></div>

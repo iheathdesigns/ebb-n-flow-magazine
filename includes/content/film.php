@@ -1,0 +1,1 @@
+<div id="content"><img name="film" src="images/cinematografa.jpg" width="600" height="500" alt="" /></div>

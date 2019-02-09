@@ -1,0 +1,1 @@
+<div id="content"><img name="photo" src="images/diving-photography-662-2.jpg" width="600" height="500" alt="" /></div>

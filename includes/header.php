@@ -1,0 +1,1 @@
+<div id="banner"><a href="index.php?section=intro"><div id="logo"></div></a></div>

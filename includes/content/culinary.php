@@ -1,0 +1,1 @@
+<div id="content"><img name="kitchen" src="images/17.jpg" width="600" height="500" alt="" /></div>
